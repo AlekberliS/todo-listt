@@ -1,0 +1,15 @@
+:root{
+     /* Light colors */
+     --text-mulledWine: #494C6B;
+     --text-mountainMist: #9495A5;
+     --text-completed: #D1D2DA;
+     --background-todo:#fff;
+     --mountain-mist:#9495A5;
+     --mercury-bottom:#E3E4F1;
+     /* Dark colors */
+     --bg-mirage: #171823;
+     --text-periwinkle: #C8CBE7;
+     --comet:#5B5E7E;
+     --dodgerBlue: #3A7CFD;
+     --ebonyClay: #25273D;
+}
